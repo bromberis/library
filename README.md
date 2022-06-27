@@ -2,7 +2,7 @@
 
 The following commands must be used in terminal
 
-# clone the project
+# clone the project with the following command or download the project manually
 git clone git@github.com:bromberis/library.git
 
 # open Visual Studio code
