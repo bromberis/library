@@ -1,0 +1,30 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+ul > li {
+  display: inline-block;
+}
+
+.ul-nav {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav-button,
+.btn-logout {
+  width: 13rem;
+  border: none;
+  font-size: 1.5rem;
+  background-color: transparent;
+}
+
+.nav-row {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+li {
+  list-style-type: none;
+  border: none;
+}
